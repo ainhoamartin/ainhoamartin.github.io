@@ -1,7 +1,6 @@
-table
-{
+table {
 border: aqua;
 }
-td{
+td,th {
     border: black;
 }
