@@ -1,10 +1,8 @@
-body {
-    background-color: rgb(185, 240, 163);
+body{
+    background-color: rgb(178, 252, 178);
 }
-
-
 table {
-    border: rgb(2, 27, 97) 5px inset;
+    border: rgb(79, 110, 101) 5px inset;
     text-align: center;
     vertical-align: middle;
     align-items: center;
@@ -12,6 +10,6 @@ table {
     margin-right: auto;
 }
     td, th {
-        border: rgba(131, 131, 130, 0.541) 3px outset;
+        border: rgba(243, 13, 186, 0.541) 3px outset;
         text-align: center;
       }
