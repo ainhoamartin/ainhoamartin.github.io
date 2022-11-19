@@ -13,3 +13,6 @@ table {
         border: rgba(243, 13, 186, 0.541) 3px outset;
         text-align: center;
       }
+ul{
+    list-style-type: square;
+}
